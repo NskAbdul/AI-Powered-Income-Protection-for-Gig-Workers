@@ -140,13 +140,6 @@ In the upcoming phases, we plan to:
 
 ---
 
-## 🔗 Links
-
-- GitHub Repo: (add your link)  
-- Demo Video: (add your link)
-
----
-
 ## ✅ Summary
 
 Our goal is simple:  
